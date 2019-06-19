@@ -1,4 +1,7 @@
 # H3DRaster
+
+DOI: 10.5281/zenodo.2538084 
+
 Raster datasets of Helsinki City. The raster maps are processed from open access LiDAR point cloud dataset which is publically available at https://kartta.hel.fi.
 
 These raster datasets are primarily designed to be visualized, manipulated and post-processed by the P4UL/pyRaster scripts. P4UL python script collection is available at https://github.com/mjsauvinen/P4UL .
